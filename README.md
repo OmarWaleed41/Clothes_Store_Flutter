@@ -9,7 +9,7 @@ Key components:
 
 ---
 
-## 🧠 Core Concepts Demonstrated
+## Core Concepts Demonstrated
 
 - `StatelessWidget` vs `StatefulWidget`
 - List filtering and dynamic UI updates
@@ -23,16 +23,3 @@ Key components:
   - `SnackBar`
 
 ---
-
-## ▶️ Running the Project
-
-### Prerequisites
-- Flutter SDK installed
-- VS Code or Android Studio
-- Android Emulator or physical device
-
-### Steps
-
-```bash
-flutter pub get
-flutter run
